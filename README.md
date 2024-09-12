@@ -24,3 +24,11 @@ Sinh viên thực bài tập cá nhân hai yêu cầu sau:
 ### Cách nộp:
 - **Nộp lên GitHub cá nhân**, nhớ ghi comment "bài tập A03".
 - **Nộp source code lên** [utexlms.hcmute.edu.vn](https://utexlms.hcmute.edu.vn) để làm minh chứng.
+
+## Bài tập A04 (12/09/2024): Chức năng profile, tìm kiếm, chi tiết
+### Bài tập nhóm: Phân công thành viên nhóm phụ trách thực hiện chức năng. Up lên GitHub 
+
+1. **Chức năng Profile của người dùng đã đăng nhập thành công (API và Code):** nộp từ 8g - 10g30
+2. **Chức năng tìm kiếm, lọc sản phẩm trên trang chủ (API và Code):** về nhà
+3. **Chức năng xem Chi tiết sản phẩm từ trang chủ, từ kết quả tìm kiếm, lọc (API và Code)** về nhà
+4. **Thông báo:** Tuần 05 (19/09/2024) thầy kiểm tra lấy điểm quá trình làm 04 bài tập vừa qua trên máy của từng cá nhân sinh viên.
