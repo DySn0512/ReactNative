@@ -35,6 +35,6 @@ Sinh viên thực bài tập cá nhân hai yêu cầu sau:
 
 ## Bài tập tuần 5 - 19/09/2024
 Bài tập nhóm:
-1. Chức năng hiển thị 10 sản phẩm bán chạy nhất hiển thị theo chiều ngang của màn hình (API và Code)
-2. Chức năng hiển thị tất cả sản phẩm theo từng danh mục sử dụng Lazy loading để load tiếp sản phẩm khi kéo xuống cuối trang (API và Code)
-3. Xây dựng Navigation ở cuối trang và UI Search, Back ở trên cùng của trang.
+1. **Chức năng hiển thị 10 sản phẩm bán chạy nhất hiển thị theo chiều ngang của màn hình (API và Code)
+2. **Chức năng hiển thị tất cả sản phẩm theo từng danh mục sử dụng Lazy loading để load tiếp sản phẩm khi kéo xuống cuối trang (API và Code)
+3. **Xây dựng Navigation ở cuối trang và UI Search, Back ở trên cùng của trang.
