@@ -33,7 +33,7 @@ Sinh viên thực bài tập cá nhân hai yêu cầu sau:
 3. **Chức năng xem Chi tiết sản phẩm từ trang chủ, từ kết quả tìm kiếm, lọc (API và Code)** về nhà
 4. **Thông báo:** Tuần 05 (19/09/2024) thầy kiểm tra lấy điểm quá trình làm 04 bài tập vừa qua trên máy của từng cá nhân sinh viên.
 
-### Bài tập tuần 5 - 19/09/2024
+## Bài tập tuần 5 - 19/09/2024
 Bài tập nhóm:
 1. Chức năng hiển thị 10 sản phẩm bán chạy nhất hiển thị theo chiều ngang của màn hình (API và Code)
 2. Chức năng hiển thị tất cả sản phẩm theo từng danh mục sử dụng Lazy loading để load tiếp sản phẩm khi kéo xuống cuối trang (API và Code)
